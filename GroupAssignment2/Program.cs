@@ -19,6 +19,7 @@ namespace GroupAssignment2
             myDeck.Shuffle();
             Console.WriteLine($"\nA shuffled deck with {myDeck.Count} cards:");
             Console.WriteLine(myDeck);
+            //test
  
             //For the Challange
             /*
